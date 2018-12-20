@@ -7,8 +7,7 @@ those problems and ease the users more.
 
 ## Getting Started
 
-These instructions will get you a copy of the project up and running on your local machine for development and 
-testing purposes. See deployment for notes on how to deploy the project on a live system.
+These instructions will get you a copy of the project up and running on your local machine for development and testing purposes. See deployment for notes on how to deploy the project on a live system.
 
 ### Prerequisites
 
@@ -18,24 +17,17 @@ What things you need to install the software and how to install them
 
 Installing Xampp Server
 ```
-1. Download the installer file at (https://www.apachefriends.org/download.html) for the latest version of XAMPP, 
-   and save the file to your computer.
+1. Download the installer file at (https://www.apachefriends.org/download.html) for the latest version of XAMPP, and save the file to your computer.
 2. Next, you need to open the folder where you saved the file, and double-click the installer file.
-3. You will be prompted to select the language you wish to use in XAMPP. Click the arrow in the dropdown box,
-   select your language in the list, then click OK to continue the installation process.
-4. For Windows 7 users, you will see a window pop up, warning you about User Account Control (UAC) being 
-   active on your system. Click OK to continue the installation.
+3. You will be prompted to select the language you wish to use in XAMPP. Click the arrow in the dropdown box, select your language in the list, then click OK to continue the installation process.
+4. For Windows 7 users, you will see a window pop up, warning you about User Account Control (UAC) being active on your system. Click OK to continue the installation.
 5. Next you will see the Welcome To The XAMPP Setup Wizard screen. Click Next to continue the installation.
-6. The Choose Components screen will appear next. This screen will allow you to choose which components you 
-   would like to install. To run XAMPP properly, all components checked need to be installed. Click Next to continue.
-7. Next you will see the Choose Install Location screen. Unless you would like to install XAMPP on another drive,
-   you should not need to change anything. Click Install to continue.
+6. The Choose Components screen will appear next. This screen will allow you to choose which components you would like to install. To run XAMPP properly, all components checked need to be installed. Click Next to continue.
+7. Next you will see the Choose Install Location screen. Unless you would like to install XAMPP on another drive, you should not need to change anything. Click Install to continue.
 8. XAMPP will begin extracting files to the location you selected in the previous step.
-9. Once all of the files have been extracted, the Completing The XAMPP Setup Wizard screen will appear. Click Finish
-   to complete the installation.
+9. Once all of the files have been extracted, the Completing The XAMPP Setup Wizard screen will appear. Click Finishto complete the installation.
 10.The Installation Complete screen will now appear. Click Finish to begin using XAMPP.
-11.After clicking Finish in the previous screen, you will be asked if you want to open the XAMPP Control Panel.
-   Click Yes.
+11.After clicking Finish in the previous screen, you will be asked if you want to open the XAMPP Control Panel. Click Yes.
 ```
 Installing Chrome
 ```
@@ -63,10 +55,12 @@ A step by step series of examples that tell you how to get the website running
 9. Search the web. (http://localhost/Chess)
 10.The website is now deployed!
 
+## Test the website
 
-## Deployment
+1. Click choose file button. Choose a PGN file.
+2. Then, click upload button.
+3. Wait for a couple of minutes for the website to finish loading and your score is shown.
 
-Add additional notes about how to deploy this on a live system
 
 ## Built With
 
@@ -78,8 +72,6 @@ Add additional notes about how to deploy this on a live system
 ## Authors
 
 * **Muhammad Akmal Hakim bin Mohd Zuki** - *Initial work* - [Chess-PGN](https://github.com/mekonchan/Chess-PGN)
-
-See also the list of [contributors](https://github.com/your/project/contributors) who participated in this project.
 
 ## Acknowledgments
 
