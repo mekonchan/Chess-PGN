@@ -16,7 +16,7 @@ What things you need to install the software and how to install them
 - Internet Browser (Chrome, Mozilla Firefox, etc)
 
 Installing Xampp Server
-```
+
 1. Download the installer file at (https://www.apachefriends.org/download.html) for the latest version of XAMPP, and save the file to your computer.
 2. Next, you need to open the folder where you saved the file, and double-click the installer file.
 3. You will be prompted to select the language you wish to use in XAMPP. Click the arrow in the dropdown box, select your language in the list, then click OK to continue the installation process.
@@ -28,9 +28,9 @@ Installing Xampp Server
 9. Once all of the files have been extracted, the Completing The XAMPP Setup Wizard screen will appear. Click Finishto complete the installation.
 10.The Installation Complete screen will now appear. Click Finish to begin using XAMPP.
 11.After clicking Finish in the previous screen, you will be asked if you want to open the XAMPP Control Panel. Click Yes.
-```
+
 Installing Chrome
-```
+
 1. Download the installation file.
 2. If prompted, click Run or Save.
 3. If you chose Save, double-click the download to start installing.
@@ -38,7 +38,7 @@ Installing Chrome
    - Windows 7: A Chrome window opens once everything is done.
    - Windows 8 & 8.1: A welcome dialog appears. Click Next to select your default browser.
    - Windows 10: A Chrome window opens after everything is done. You can make Chrome your default browser.
-```
+
 
 ### Running the website
 
